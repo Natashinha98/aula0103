@@ -1,6 +1,7 @@
+#include "funcoes.h"
 #include <stdio.h>
 
-int main(void) {
-  printf("hello World\n");
+int main(void){
+  helloworld();
   return 0;
 }
